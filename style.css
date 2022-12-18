@@ -1,3 +1,10 @@
 html{
   font-family: 'JetBrains mono';
+  background-color: lightgray;
+  margin: 3%;
+}
+h2{
+  background-color: rgb(9, 24, 23);
+  padding: 5px;
+  color: aliceblue;
 }
